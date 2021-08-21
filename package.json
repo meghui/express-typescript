@@ -1,0 +1,27 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controllers/postController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w & nodemon controllers/postController.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meghui/express-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghui/express-typescript/issues"
+  },
+  "homepage": "https://github.com/meghui/express-typescript#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

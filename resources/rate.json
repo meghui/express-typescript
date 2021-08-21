@@ -1,0 +1,32 @@
+[
+  {
+    "bottom": 0,
+    "threshold": 18200,
+    "rate": 0,
+    "plus": 0
+  },
+  {
+    "bottom": 18201,
+    "threshold": 37000,
+    "rate": 0.19,
+    "plus": 0
+  },
+  {
+    "bottom": 37001,
+    "threshold": 87000,
+    "rate": 0.325,
+    "plus": 3572
+  },
+  {
+    "bottom": 87001,
+    "threshold": 180000,
+    "rate": 0.37,
+    "plus": 19822
+  },
+  {
+    "bottom": 180001,
+    "threshold": 1000000000,
+    "rate": 0.45,
+    "plus": 54232
+  }
+]
